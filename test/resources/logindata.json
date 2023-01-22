@@ -1,0 +1,10 @@
+{
+    "valid": {
+        "user": "tomsmith",
+        "password": "SuperSecretPassword!"
+    },
+    "url": {
+        "domain": "https://the-internet.herokuapp.com/",
+        "subDirectory": "login"
+    }
+}

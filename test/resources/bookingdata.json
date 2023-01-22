@@ -1,0 +1,24 @@
+{
+    "valid": {
+        "user": "John Doe",
+        "password": "ThisIsNotAPassword"
+    },
+    "invalid": {
+        "user": "Not John Doe",
+        "password": "ThisIsAPassword"
+    },
+    "url": {
+        "domain": "https://katalon-demo-cura.herokuapp.com/",
+        "subDirectory": "#appointment"
+    },
+    "date": {
+        "visit": "05/11/2048"
+    },
+    "facility": {
+        "tokyo": "Tokyo CURA Healthcare Center",
+        "seoul": "Seoul CURA Healthcare Center"
+    },
+    "summary": {
+        "confirmation": "Appointment Confirmation"
+    }
+}
